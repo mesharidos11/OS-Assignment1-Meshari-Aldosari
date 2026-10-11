@@ -130,11 +130,11 @@
 ## Your Development Log
 
 ### Entry 1 - [Date and Time]
-**What I did**:
+**What I did**:jjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj
 
-**Details**:
+**Details**:fgggggggggggggggggggggggggggggggggggggg
 
-**Challenges**:
+**Challenges**:ggggggggggggggggggggggggggggggg
 
 **Solution**:
 
